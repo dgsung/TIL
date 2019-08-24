@@ -1,4 +1,4 @@
 # Today I Learned(TIL) Wiki
 
 ## GraphQL
-* GraphQL vs REST
+* [Introduction to GraphQL](https://github.com/dgsung/TIL/blob/master/GraphQL/Introduction%20to%20GraphQL.md)
